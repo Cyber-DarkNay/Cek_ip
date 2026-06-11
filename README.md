@@ -36,5 +36,5 @@
 
 ### 1. Clone repositori
 ```bash
-git clone https://github.com/Cyber-DarkNay/OSINT-IP.git
-cd OSINT-IP
+git clone https://github.com/Cyber-DarkNay/Cek_ip.git
+cd Cek_ip
